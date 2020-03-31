@@ -9,9 +9,23 @@ import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Component;
 
+
 /**
- * 圆圈中最后剩下的数字
+ *
+ * topic: 圆圈中最后剩下的数字
+ *
+ * desc:
+ *
+ * 样例：
+ * 例1：
+ *
+ *
+ *
+ * 例2：
+ *
+ *
  */
+
 @Component
 public class Ttitle62 {
 
