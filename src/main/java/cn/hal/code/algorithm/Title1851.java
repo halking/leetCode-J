@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
  * @Date: 2020/3/31
  *
  * topic: 1851. 购买通行证
+ * url: https://www.lintcode.com/problem/buy-passes/description
  *
  * desc: 亚历克斯计划参观博物馆，并在柜台上购买通行证。管理员决定不一次出售多张通行证，一次只提供一张。如果访客需要一张以上的通行证，
  * 他/她必须再次重新排队到柜台并购买下一张通行证。亚历克斯想购买许多通行证。访客顺序和每位访客需要的通行证数量是已知的，
